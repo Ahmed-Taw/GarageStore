@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d8c53d0-776c-4634-8fbc-345288779701": {
+      "ProjectGuid": "9d8c53d0-776c-4634-8fbc-345288779701",
+      "DisplayName": "Garage",
+      "ColorIndex": 0
+    },
+    "b92eec06-280a-4194-8702-4cc86211b477": {
+      "ProjectGuid": "b92eec06-280a-4194-8702-4cc86211b477",
+      "DisplayName": "Garage.Business.Infrastructure",
+      "ColorIndex": 1
+    },
+    "6429b0c1-6e3e-451d-ad44-a28d8ff7a4ad": {
+      "ProjectGuid": "6429b0c1-6e3e-451d-ad44-a28d8ff7a4ad",
+      "DisplayName": "Garage.Business",
+      "ColorIndex": 2
+    },
+    "9d0c206d-4e96-4c32-8faf-56b9fbdc1c66": {
+      "ProjectGuid": "9d0c206d-4e96-4c32-8faf-56b9fbdc1c66",
+      "DisplayName": "Garage.DAL.Infrastructure",
+      "ColorIndex": 3
+    },
+    "5836ebf1-bda3-4eb1-8b2f-1400517bbddb": {
+      "ProjectGuid": "5836ebf1-bda3-4eb1-8b2f-1400517bbddb",
+      "DisplayName": "Garage.DAL",
+      "ColorIndex": 4
+    },
+    "5b4d5647-2e82-459f-b97c-ba4769467b9c": {
+      "ProjectGuid": "5b4d5647-2e82-459f-b97c-ba4769467b9c",
+      "DisplayName": "Garage.DAL.Sql",
+      "ColorIndex": 5
+    },
+    "f55f9391-58e4-4f7c-aa56-8cad49542ff3": {
+      "ProjectGuid": "f55f9391-58e4-4f7c-aa56-8cad49542ff3",
+      "DisplayName": "Garage.Business.Test",
+      "ColorIndex": 6
+    },
+    "5c3792d0-a456-4984-ab3e-774f00ed3b01": {
+      "ProjectGuid": "5c3792d0-a456-4984-ab3e-774f00ed3b01",
+      "DisplayName": "Garage.Test",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

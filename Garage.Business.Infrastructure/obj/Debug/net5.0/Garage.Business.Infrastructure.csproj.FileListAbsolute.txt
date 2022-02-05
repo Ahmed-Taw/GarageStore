@@ -1,0 +1,12 @@
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\bin\Debug\net5.0\Garage.Business.Infrastructure.deps.json
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\bin\Debug\net5.0\Garage.Business.Infrastructure.dll
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\bin\Debug\net5.0\ref\Garage.Business.Infrastructure.dll
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\bin\Debug\net5.0\Garage.Business.Infrastructure.pdb
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\obj\Debug\net5.0\Garage.Business.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\obj\Debug\net5.0\Garage.Business.Infrastructure.AssemblyInfoInputs.cache
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\obj\Debug\net5.0\Garage.Business.Infrastructure.AssemblyInfo.cs
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\obj\Debug\net5.0\Garage.Business.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\obj\Debug\net5.0\Garage.Business.Infrastructure.dll
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\obj\Debug\net5.0\ref\Garage.Business.Infrastructure.dll
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\obj\Debug\net5.0\Garage.Business.Infrastructure.pdb
+D:\Tawfik\Training Projects\Garage\Garage.Business.Infrastructure\obj\Debug\net5.0\Garage.Business.Infrastructure.csproj.AssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="MockingData\warehouses.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="MockingData\warehouses.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	<PackageReference Include="AutoMapper" Version="11.0.1" />	  
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Garage.Business.Infrastructure\Garage.Business.Infrastructure.csproj" />
+    <ProjectReference Include="..\Garage.Business\Garage.Business.csproj" />
+    <ProjectReference Include="..\Garage.DAL.Infrastructure\Garage.DAL.Infrastructure.csproj" />
+    <ProjectReference Include="..\Garage.DAL.Sql\Garage.DAL.Sql.csproj" />
+  </ItemGroup>
+
+</Project>
