@@ -3,3 +3,13 @@
 ################################################################################
 
 /Garage/obj
+/.vs
+/Garage/bin
+/Garage.Business/bin
+/Garage.Business/obj
+/Garage.Business.Infrastructure/bin
+/Garage.Business.Infrastructure/obj
+/Garage.Business.Test/obj
+/Garage.DAL.Sql/obj
+/Garage.Test/obj
+/Garage.DAL.Sql/bin
