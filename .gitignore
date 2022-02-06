@@ -13,3 +13,5 @@
 /Garage.DAL.Sql/obj
 /Garage.Test/obj
 /Garage.DAL.Sql/bin
+/Garage.Business.Test/bin
+/Garage.Test/bin

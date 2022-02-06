@@ -1,4 +1,4 @@
-﻿using Garage.Business.CustomExceptions;
+﻿using Garage.Business.Infrastructure.CustomExceptions;
 using Garage.Business.Infrastructure.DTOs;
 using Garage.Business.Infrastructure.Iservices;
 using Garage.DAL.Infrastructure.Entities;

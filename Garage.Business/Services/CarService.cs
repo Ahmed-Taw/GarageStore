@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Garage.Business.CustomExceptions;
 using Garage.Business.Infrastructure.DTOs;
 using Garage.Business.Infrastructure.Iservices;
 using Garage.DAL.Infrastructure.Entities;
@@ -9,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Garage.Business.Infrastructure.CustomExceptions;
 
 namespace Garage.Business.Services
 {
