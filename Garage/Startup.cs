@@ -52,12 +52,12 @@ namespace Garage
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Garage v1"));
             }
+            
+            app.UseRouting();
             app.UseCors(builder => builder.WithOrigins(Configuration.GetSection("GarageWebOrigin").Value)
                                          .AllowAnyMethod()
                                          .AllowAnyHeader());
-            app.UseHttpsRedirection();
-
-            app.UseRouting();
+            
 
             app.UseAuthorization();
 

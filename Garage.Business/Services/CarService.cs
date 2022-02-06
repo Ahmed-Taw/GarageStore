@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Garage.Business.CustomExceptions;
 using Garage.Business.Infrastructure.DTOs;
 using Garage.Business.Infrastructure.Iservices;
 using Garage.DAL.Infrastructure.Entities;
@@ -31,7 +32,8 @@ namespace Garage.Business.Services
         public async Task<CarDetailsDTO> GetCarDetailsAsync(int id)
         {
             var car = await _carRepository.GetByIdAsync(id);
-
+            if (car is null)
+                throw new ResourceNotFoundException();
             return _mapper.Map<CarDetailsDTO>(car);
         }
     }
